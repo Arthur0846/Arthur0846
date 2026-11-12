@@ -21,12 +21,21 @@ Algoritmos, estruturas de dados, banco de dados, engenharia de software e gestã
 
 ### Tecnologias
 
-|                          |  |
-| ------------------------ | - |
-| **Linguagens**     |  |
-| **Front-end**      |  |
-| **Banco de dados** |  |
-| **Ferramentas**    |  |
+**Linguagens**
+
+![Linguagens](https://skillicons.dev/icons?i=java,python,kotlin,c)
+
+**Front-end**
+
+![Front-end](https://skillicons.dev/icons?i=html,css,js)
+
+**Banco de dados**
+
+![Banco de dados](https://skillicons.dev/icons?i=mysql,postgres)
+
+**Ferramentas**
+
+![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,idea)
 
 <a href="https://github.com/Arthur0846">
   <img src="https://img.shields.io/badge/GitHub-Arthur0846-181717?style=for-the-badge&logo=github&logoColor=white" />
